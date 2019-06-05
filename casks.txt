@@ -1,0 +1,5 @@
+dropbox
+eclipse-java
+google-chrome
+kindle
+spotify

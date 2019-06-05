@@ -1,0 +1,16 @@
+ack
+bash-completion
+colordiff
+ctags
+ffmpeg
+git
+heroku/brew/heroku
+postgresql
+python
+python3
+rabbitmq
+readline
+sass/sass/sass
+terminal-notifier
+wget
+xz
