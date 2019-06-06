@@ -1,5 +1,6 @@
 dropbox
 eclipse-java
+gimp
 google-chrome
 kindle
 spotify
