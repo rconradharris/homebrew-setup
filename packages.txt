@@ -4,6 +4,7 @@ colordiff
 ctags
 ffmpeg
 git
+gpg
 heroku/brew/heroku
 postgresql
 python
