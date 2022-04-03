@@ -1,7 +1,1 @@
-dropbox
-eclipse-java
-gimp
 google-chrome
-kindle
-slack
-spotify
