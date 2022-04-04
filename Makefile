@@ -15,4 +15,4 @@ start-services:
 	xargs -n1 brew services start < start-services.txt
 
 install-casks:
-	xargs brew cask install < casks.txt
+	xargs brew install --cask < casks.txt
